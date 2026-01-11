@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+
+transformers
+sentencepiece
+
+pillow
+scikit-image
+scikit-learn
+
+nltk
+rouge-score
+
+tensorboard
+kaggle
