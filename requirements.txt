@@ -14,4 +14,3 @@ rouge-score
 
 tensorboard
 kagglehub
-sentencepiece
