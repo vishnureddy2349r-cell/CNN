@@ -13,4 +13,4 @@ nltk
 rouge-score
 
 tensorboard
-kaggle
+kagglehub
