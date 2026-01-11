@@ -1,0 +1,19 @@
+dataset:
+  image_size: 224
+  sequence_length: 5
+  max_text_len: 40
+
+training:
+  batch_size: 8
+  epochs: 10
+  learning_rate: 0.0003
+  device: cuda
+
+model:
+  hidden_size: [256, 512]        #  hyperparameter 1
+  attention_heads: [2, 4]        #  hyperparameter 2
+
+paths:
+  train_dir: /content/drive/MyDrive/Vishnu/vist_kaggle/train_data
+  val_dir: /content/drive/MyDrive/Vishnu/vist_kaggle/val_data
+  results_dir: results
