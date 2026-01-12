@@ -3,6 +3,10 @@
 This project implements a **Visual Storytelling system** using the **VIST (Visual Storytelling) dataset**, where a model generates a coherent story from a sequence of five images. The implementation focuses on a **memory-efficient CNN + LSTM baseline**, with clean dataset handling and a stable training pipeline in **Google Colab**.
 
 ---
+## Quick Links
+- [Experiments Notebook](experiment.ipynb) – Full experimental workflow and implementation  
+- [Evaluation Results](results/) – All The results are in this folder 
+- [Model Architecture](src/) – Encoders, fusion, temporal modelling, and decoders.
 
 ## 📌 Project Overview
 
