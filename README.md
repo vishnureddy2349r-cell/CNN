@@ -195,8 +195,8 @@ Go to: [https://colab.research.google.com](https://colab.research.google.com)
 Run in a Colab cell:
 
 ```bash
-!git clone https://github.com/<your-username>/visual-storytelling-vist.git
-%cd visual-storytelling-vist
+!git clone https://github.com/vishnureddy2349r-cell/CNN.git
+%cd CNN
 ```
 
 ---
