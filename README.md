@@ -293,24 +293,18 @@ Expected:
 
 ---
 
-## 📊 Expected Results
+## Key Results
+| Metric            | Score     |
+|-------------------|-----------|
+| Test Loss         | 7.8920    |
+| Test Perplexity ↓ | 2675.9042 |
 
-This is a **baseline model**. Generated stories may:
-
-* repeat phrases
-* be generic
-* show weak image grounding
-
-This behavior is expected without attention or transformers.
 
 ---
 
 ## 🔮 Future Work
 
-* Enable cross-modal attention
-* Transformer-based decoder
 * Sentence-level image alignment
-* BLEU / ROUGE evaluation
 * Beam search decoding
 
 ---
